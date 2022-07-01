@@ -1,1 +1,1 @@
-The Usernames directory will hold a number of username lists that can be used by multiple tools when attempting to guess credentials for a given targeted service.
+O diretório de nomes de usuário conterá várias listas de nomes de usuário que podem ser usadas por várias ferramentas ao tentar adivinhar credenciais para um determinado serviço de destino.
